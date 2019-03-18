@@ -1,1 +1,30 @@
 /* All styles for your header Components live here */
+
+h1 {
+    font-size: 13px;
+    margin-top:10px;
+    margin-bottom: -5px;
+}
+
+.name-and-date {
+    font-size: 10px;
+    color: lightgray;
+    margin-left: 5px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+
+.header-wrapper {
+    display: flex;
+    /* align-items: center; */
+    width: 500px;
+}
+
+.header-copy {
+    font-size: 11px;
+
+}

@@ -1,1 +1,32 @@
 /* All styles for your Card Components live here */
+
+.card-banner {
+    width: 440px;
+    /* height:460px; */
+    margin-left: 60px;
+    border-radius: 3px;
+}
+
+.card-content {
+    margin-left: 60px;
+    width: 418px;
+    padding: 10px;
+    border: 1px solid rgb(233, 232, 232);
+    margin-top: -10px;
+}
+
+.card-content-header {
+    font-size: 13px;
+    margin-bottom: -7px;
+}
+
+.card-content-p {
+    font-size: 12px;
+}
+
+.web-address {
+    font-size: 11px;
+    color: rgb(150, 150, 150);
+    margin-left: 5px;
+    margin: -7px 0 1px 0;
+}
