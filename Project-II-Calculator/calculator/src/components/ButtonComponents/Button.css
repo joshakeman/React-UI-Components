@@ -11,6 +11,7 @@
     display: flex;
     flex-direction: column;
     margin: 20px 0;
+    border: 1px solid white;
 }
 
 .calc-wrapper-wrapper {
@@ -62,7 +63,7 @@
     font-size: 21px;
 }
 
-.calc-display {
+/* .calc-display {
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -75,4 +76,4 @@
 .calc-display > h2 {
     margin-right: 10px;
     font-size: 30px;
-}
+} */
