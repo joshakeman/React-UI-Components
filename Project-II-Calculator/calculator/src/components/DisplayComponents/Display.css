@@ -3,3 +3,7 @@
     height: 85px;
     margin: 0;
 }
+
+.page-wrapper {
+    background: black;
+}
