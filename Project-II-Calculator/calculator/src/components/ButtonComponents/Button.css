@@ -1,0 +1,79 @@
+.button {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+
+.calc-wrapper-wrapper-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+    border: 1px solid white;
+}
+
+.calc-wrapper-wrapper {
+    display: flex;
+    border: 1px solid black;
+    height: auto;
+}
+.calc-wrapper {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    /* margin-top: 50px; */
+}
+
+.actionButton {
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    text-align: center;
+    vertical-align: center;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid black; */
+}
+
+.clear-btn-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.page-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.operator-button-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+    /* margin-top: 50px; */
+}
+
+.operatorButton {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(179, 0, 0);
+    color: white;
+    font-size: 21px;
+}
+
+/* .calc-display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background: rgb(29, 29, 29);
+    color: white;
+    border: 1px solid white;
+    height: 65px;
+}
+
+.calc-display > h2 {
+    margin-right: 10px;
+    font-size: 30px;
+} */

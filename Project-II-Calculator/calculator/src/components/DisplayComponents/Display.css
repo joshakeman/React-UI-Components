@@ -1,0 +1,19 @@
+.calc-display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background: rgb(29, 29, 29);
+    color: white;
+    border: 1px solid white;
+    height: 65px;
+}
+
+.calc-display > h2 {
+    margin-right: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.page-wrapper {
+    background: black;
+}

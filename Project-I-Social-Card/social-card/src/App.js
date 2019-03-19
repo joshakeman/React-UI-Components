@@ -1,10 +1,16 @@
 import React from 'react';
 import './App.css';
+import HeaderContainer from './components/HeaderComponents/HeaderContainer'
+import CardContainer from './components/CardComponents/CardContainer'
+import Footer from './components/FooterComponents/Footer'
+
 
 const App = () => {
   return (
     <div>
-      <h3>Welcome to React Social Card!</h3>
+      <HeaderContainer />
+      <CardContainer />
+      <Footer />
       <p>
         Begin by exploring the `components` directory. You'll notice we have a
         few files that we've already included in there to get you started right
